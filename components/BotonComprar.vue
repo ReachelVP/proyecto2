@@ -16,7 +16,7 @@ const tallaElegida = computed(() => String(props.talla ?? props.producto.tallas[
     :data-item-id="producto.id"
     :data-item-name="producto.nombre"
     :data-item-price="producto.precio.toFixed(2)"
-    :data-item-url="`/producto/${producto.slug}`"
+    :data-item-url="`/producto/${producto.slug}/`"
     :data-item-description="producto.descripcion"
     :data-item-image="producto.imagen"
     data-item-custom1-name="Talla"
