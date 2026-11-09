@@ -50,7 +50,10 @@ export default defineNuxtConfig({
       snipcartKey:
         process.env.NUXT_PUBLIC_SNIPCART_KEY ||
         'YmEyZjg2MWMtNmVmMi00MDgwLWFlMjQtMjExMjRmOWRkOWVjNjM5Mjk3OTI1MzkxMDg1ODkz',
-      utterancesRepo: process.env.NUXT_PUBLIC_UTTERANCES_REPO || 'ReachelVP/proyecto2'
+      utterancesRepo: process.env.NUXT_PUBLIC_UTTERANCES_REPO || 'ReachelVP/proyecto2',
+      // URL pública del sitio (Netlify define la variable URL al construir).
+      // Snipcart la usa para visitar la página del producto y validar el precio.
+      siteUrl: process.env.URL || 'https://startling-lollipop-06f382.netlify.app'
     }
   },
 
