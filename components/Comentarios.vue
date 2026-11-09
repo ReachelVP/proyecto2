@@ -14,7 +14,6 @@ function cargar() {
   script.crossOrigin = 'anonymous'
   script.setAttribute('repo', config.utterancesRepo as string)
   script.setAttribute('issue-term', props.termino)
-  script.setAttribute('label', 'comentario')
   script.setAttribute('theme', 'github-light')
   contenedor.value.appendChild(script)
 }
