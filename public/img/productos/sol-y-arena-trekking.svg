@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sol y Arena Trekking">
+  <rect width="400" height="300" fill="#e6e7e9"/>
+  <circle cx="300" cy="70" r="90" fill="#c9ccd0" opacity=".6"/>
+  <ellipse cx="206" cy="252" rx="170" ry="12" fill="#000" opacity=".08"/>
+  
+    <path d="M40 210 Q40 228 64 228 L350 228 Q372 228 372 212 Q372 200 350 198 L64 198 Q40 198 40 210 Z" fill="#313740" stroke="#22262d" stroke-width="3"/>
+    <path d="M60 200 Q60 190 80 190 L344 190 Q362 192 362 200 Z" fill="#a5aab1"/>
+    <g fill="none" stroke="#4b5563" stroke-width="16" stroke-linecap="round">
+      <path d="M110 192 Q120 130 160 140"/><path d="M200 192 Q230 130 290 192"/><path d="M90 192 Q70 150 110 140"/>
+    </g>
+</svg>

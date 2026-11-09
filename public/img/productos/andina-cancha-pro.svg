@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Andina Cancha Pro">
+  <rect width="400" height="300" fill="#fae1e1"/>
+  <circle cx="300" cy="70" r="90" fill="#f5bebe" opacity=".6"/>
+  <ellipse cx="206" cy="252" rx="170" ry="12" fill="#000" opacity=".08"/>
+  
+    <path d="M40 212 Q40 238 72 238 L348 238 Q372 238 372 214 L372 204 L40 204 Z" fill="#fafafa" stroke="#631111" stroke-width="3"/>
+    <path d="M48 206 L58 142 Q68 108 112 114 L150 120 Q172 152 214 150 L252 146 Q304 150 342 176 Q368 192 366 206 Z" fill="#dc2626" stroke="#631111" stroke-width="3"/>
+    <path d="M150 120 Q172 152 214 150" fill="none" stroke="#631111" stroke-width="3"/>
+    <g stroke="#fafafa" stroke-width="5" stroke-linecap="round"><path d="M178 138 L198 124"/><path d="M196 144 L216 130"/><path d="M214 148 L234 134"/></g>
+    <path d="M90 190 Q170 160 280 182" fill="none" stroke="#fafafa" stroke-width="8" stroke-linecap="round" opacity=".85"/>
+</svg>

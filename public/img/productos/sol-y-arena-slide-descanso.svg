@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sol y Arena Slide Descanso">
+  <rect width="400" height="300" fill="#f3effe"/>
+  <circle cx="300" cy="70" r="90" fill="#e5dcfe" opacity=".6"/>
+  <ellipse cx="206" cy="252" rx="170" ry="12" fill="#000" opacity=".08"/>
+  
+    <path d="M40 212 Q40 230 66 230 L350 230 Q374 230 374 212 Q374 196 350 196 L66 196 Q40 196 40 212 Z" fill="#a78bfa" stroke="#4b3f70" stroke-width="3"/>
+    <path d="M60 196 Q60 188 80 188 L348 188 Q364 190 364 196 Z" fill="#cfbffc"/>
+    <path d="M150 190 Q220 110 300 190" fill="#8e76d5" stroke="#4b3f70" stroke-width="3"/>
+</svg>

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "deportivos",
+    "nombre": "Deportivos",
+    "descripcion": "Zapatillas para correr, entrenar, jugar y moverte con comodidad y amortiguación.",
+    "imagen": "/img/productos/veloz-runner-3.svg"
+  },
+  {
+    "slug": "casuales",
+    "nombre": "Casuales",
+    "descripcion": "Tenis, mocasines y náuticos para el día a día, la universidad o el fin de semana.",
+    "imagen": "/img/productos/urbano-retro-90.svg"
+  },
+  {
+    "slug": "formales",
+    "nombre": "Formales",
+    "descripcion": "Oxford, derby, tacones y zapatos de vestir para la oficina y las ocasiones especiales.",
+    "imagen": "/img/productos/clasica-oxford-caballero.svg"
+  },
+  {
+    "slug": "botas",
+    "nombre": "Botas",
+    "descripcion": "Botas de montaña, de trabajo, vaqueras, Chelsea y de lluvia para todo terreno.",
+    "imagen": "/img/productos/montana-alta-explorer.svg"
+  },
+  {
+    "slug": "sandalias",
+    "nombre": "Sandalias",
+    "descripcion": "Sandalias, chancletas y slides frescos para la playa, el verano y el descanso.",
+    "imagen": "/img/productos/sol-y-arena-trekking.svg"
+  },
+  {
+    "slug": "infantiles",
+    "nombre": "Infantiles",
+    "descripcion": "Calzado resistente y cómodo para bebés, niños y niñas, desde los primeros pasos hasta la escuela.",
+    "imagen": "/img/productos/pasitos-luces-led.svg"
+  }
+]

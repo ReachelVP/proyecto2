@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Clásica Derby Coñac">
+  <rect width="400" height="300" fill="#f0e4dd"/>
+  <circle cx="300" cy="70" r="90" fill="#dec6b7" opacity=".6"/>
+  <ellipse cx="206" cy="252" rx="170" ry="12" fill="#000" opacity=".08"/>
+  
+    <path d="M40 206 Q46 170 112 162 L172 150 Q234 150 292 176 Q344 188 366 204 L366 212 Q366 220 352 220 L120 220 L120 236 L62 236 L62 220 Q40 220 40 206 Z" fill="#421d06"/>
+    <path d="M44 204 Q50 168 112 160 L172 148 Q234 148 292 172 Q342 184 364 202 Z" fill="#92400e" stroke="#421d06" stroke-width="3"/>
+    <path d="M150 154 Q190 170 236 160" fill="none" stroke="#b88362" stroke-width="4" stroke-linecap="round"/>
+    <path d="M70 176 Q90 166 118 166" fill="none" stroke="#b37956" stroke-width="3" opacity=".7"/>
+</svg>

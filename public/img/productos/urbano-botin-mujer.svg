@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Urbano Botín Mujer">
+  <rect width="400" height="300" fill="#ecebea"/>
+  <circle cx="300" cy="70" r="90" fill="#d7d4d3" opacity=".6"/>
+  <ellipse cx="206" cy="252" rx="170" ry="12" fill="#000" opacity=".08"/>
+  
+    <path d="M70 120 Q60 112 74 104 Q100 98 120 112 L170 170 Q230 196 300 200 Q360 204 372 214 Q372 222 352 222 L210 222 Q160 210 120 180 L104 236 L90 236 L96 170 Z" fill="#78716c" stroke="#363331" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M120 112 Q150 170 230 190" fill="none" stroke="#a7a39f" stroke-width="3" opacity=".8"/>
+</svg>
