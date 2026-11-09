@@ -3,6 +3,11 @@
 Proyecto 2 de Arquitectura de la Información: aplicación de comercio electrónico hecha con **Nuxt 3**,
 **Snipcart** (carrito de compras) y **utterances** (comentarios). Tema: **Tienda de zapatos (116970350)**.
 
+## Enlaces
+
+- **Sitio publicado (Netlify):** <https://startling-lollipop-06f382.netlify.app>
+- **Repositorio (código y comentarios de utterances):** <https://github.com/ReachelVP/proyecto2>
+
 ## Funcionalidades
 
 | Requisito | Dónde está |
