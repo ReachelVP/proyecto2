@@ -60,7 +60,9 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       crawlLinks: true,
-      routes: rutas
+      routes: rutas,
+      // Las búsquedas se resuelven en el navegador; no se pre-generan /buscar?q=...
+      ignore: ['/buscar?']
     }
   }
 })
